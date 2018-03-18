@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FacebookSoftEng</string>
+    <string name="facebook_app_id">414225255686244</string>
+    <string name="fb_login_protocol_scheme">fb414225255686244</string>
+    <string name="hello_senpai">Hello Senpai</string>
+    <string name="posts">Posts</string>
+
+</resources>
